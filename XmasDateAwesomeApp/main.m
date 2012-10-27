@@ -20,7 +20,8 @@ int main(int argc, const char * argv[])
         NSTimeInterval diff = [date2 timeIntervalSinceNow];
         NSLog(@"There are %f seconds until xmas", diff);
         
-        //Testing changes 
+        //Testing changes
+        //This is the Hackjob version
         
     }
     return 0;
